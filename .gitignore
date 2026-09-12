@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific data
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Xcode build products
+build/
+DerivedData/
+*.dSYM/
+*.xcarchive/
+*.ipa
+
+# CocoaPods generated dependencies
+Pods/
+

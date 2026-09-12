@@ -1,6 +1,0 @@
-framework module QSIpLocation {
-  umbrella header "QSIpLocation-watchOS-umbrella.h"
-
-  export *
-  module * { export * }
-}
